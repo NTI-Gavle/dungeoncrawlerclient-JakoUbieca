@@ -1,0 +1,14 @@
+D:\Downloads\dungeoncrawlerclient-JakoUbieca-master\dungeoncrawlerclient-JakoUbieca-master\DungeonCrawlerClient\bin\Debug\net6.0\DungeonCrawlerClient.exe
+D:\Downloads\dungeoncrawlerclient-JakoUbieca-master\dungeoncrawlerclient-JakoUbieca-master\DungeonCrawlerClient\bin\Debug\net6.0\DungeonCrawlerClient.deps.json
+D:\Downloads\dungeoncrawlerclient-JakoUbieca-master\dungeoncrawlerclient-JakoUbieca-master\DungeonCrawlerClient\bin\Debug\net6.0\DungeonCrawlerClient.runtimeconfig.json
+D:\Downloads\dungeoncrawlerclient-JakoUbieca-master\dungeoncrawlerclient-JakoUbieca-master\DungeonCrawlerClient\bin\Debug\net6.0\DungeonCrawlerClient.dll
+D:\Downloads\dungeoncrawlerclient-JakoUbieca-master\dungeoncrawlerclient-JakoUbieca-master\DungeonCrawlerClient\bin\Debug\net6.0\DungeonCrawlerClient.pdb
+D:\Downloads\dungeoncrawlerclient-JakoUbieca-master\dungeoncrawlerclient-JakoUbieca-master\DungeonCrawlerClient\obj\Debug\net6.0\DungeonCrawlerClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\dungeoncrawlerclient-JakoUbieca-master\dungeoncrawlerclient-JakoUbieca-master\DungeonCrawlerClient\obj\Debug\net6.0\DungeonCrawlerClient.AssemblyInfoInputs.cache
+D:\Downloads\dungeoncrawlerclient-JakoUbieca-master\dungeoncrawlerclient-JakoUbieca-master\DungeonCrawlerClient\obj\Debug\net6.0\DungeonCrawlerClient.AssemblyInfo.cs
+D:\Downloads\dungeoncrawlerclient-JakoUbieca-master\dungeoncrawlerclient-JakoUbieca-master\DungeonCrawlerClient\obj\Debug\net6.0\DungeonCrawlerClient.csproj.CoreCompileInputs.cache
+D:\Downloads\dungeoncrawlerclient-JakoUbieca-master\dungeoncrawlerclient-JakoUbieca-master\DungeonCrawlerClient\obj\Debug\net6.0\DungeonCrawlerClient.dll
+D:\Downloads\dungeoncrawlerclient-JakoUbieca-master\dungeoncrawlerclient-JakoUbieca-master\DungeonCrawlerClient\obj\Debug\net6.0\refint\DungeonCrawlerClient.dll
+D:\Downloads\dungeoncrawlerclient-JakoUbieca-master\dungeoncrawlerclient-JakoUbieca-master\DungeonCrawlerClient\obj\Debug\net6.0\DungeonCrawlerClient.pdb
+D:\Downloads\dungeoncrawlerclient-JakoUbieca-master\dungeoncrawlerclient-JakoUbieca-master\DungeonCrawlerClient\obj\Debug\net6.0\DungeonCrawlerClient.genruntimeconfig.cache
+D:\Downloads\dungeoncrawlerclient-JakoUbieca-master\dungeoncrawlerclient-JakoUbieca-master\DungeonCrawlerClient\obj\Debug\net6.0\ref\DungeonCrawlerClient.dll
